@@ -5,7 +5,8 @@
   "version": "0.0.0",
   "main": "index.js",
   "engines": {
-    "node": "8.9.4",
+    "node": "8.9.4"
+  },
   "scripts": {
     "start": "node index.js"
   },
